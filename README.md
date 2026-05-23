@@ -21,8 +21,7 @@ configuration, and reflections on the experience.
 ## Steps Completed
 
 1. **Created a GitHub account** — [View detailed steps](GITHUB-SETUP.md)
-2. **Installed Cursor IDE** from cursor.com
-3. **Installed Claude Code and Codex extensions** via Cursor's extension panel
+2. **Installed Cursor IDE and extensions** — [View detailed steps](CURSOR-SETUP.md)
 4. **Created this public repository** and cloned it locally
 5. **Wrote and committed this README.md**
 
