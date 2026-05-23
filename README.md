@@ -53,7 +53,9 @@ I solved this by configuring my Git identity using the following commands:
 git config --global user.email "anggilenovo7@gmail.com"
 git config --global user.name "Anggiawan"
 ```
+
 After running both commands, the commit and push completed successfully.
+
 ---
 
 ## Screenshots
