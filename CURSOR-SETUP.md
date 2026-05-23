@@ -14,15 +14,15 @@ and setting up the required extensions as part of the 100Hires portfolio setup.
 
 ## Part 1 — Installing Cursor IDE
 
-### Step 1 — Download Cursor
+### Step 1 — Go to Cursor
 Open your browser and go to [https://cursor.com](https://cursor.com),
-then click the **"Download"** button.
+then scroll down.
 
 ![Cursor Homepage](screenshots/cursor-homepage.png)
 
 ---
 
-### Step 2 — Choose Your Operating System
+### Step 2 — Download Cursor
 Select the correct installer for your system:
 - **Windows** — `.exe` file
 - **macOS** — `.dmg` file
@@ -65,7 +65,7 @@ In Cursor, open the Extensions panel using one of these methods:
 3. Click **"Install"**
 4. Once installed, click **"Sign in"** and log in with your Anthropic account
 
-![Claude Code Extension](screenshots/cursor-extensions.png)
+![Claude Code Extension](screenshots/claude-extensions.png)
 
 ---
 
@@ -74,6 +74,8 @@ In Cursor, open the Extensions panel using one of these methods:
 2. Find the extension by Openai
 3. Click **"Install"**
 4. Once installed, click **"Sign in"** and complete the login process
+
+![Claude Code Extension](screenshots/codex-extensions.png)
 
 ---
 

@@ -14,7 +14,7 @@ configuration, and reflections on the experience.
 |------|---------|
 | [Cursor IDE](https://cursor.com) | AI-powered code editor |
 | Claude Code *(Cursor Extension)* | AI coding assistant by Anthropic |
-| Codex *(Cursor Extension)* | AI code completion tool |
+| Codex *(Cursor Extension)* | AI code completion tool by Openai |
 
 ---
 
@@ -22,8 +22,9 @@ configuration, and reflections on the experience.
 
 1. **Created a GitHub account** — [View detailed steps](GITHUB-SETUP.md)
 2. **Installed Cursor IDE and extensions** — [View detailed steps](CURSOR-SETUP.md)
-4. **Created this public repository** and cloned it locally
-5. **Wrote and committed this README.md**
+4. **Learned and used Git commands** — [View reference](GIT-COMMANDS.md)
+5. **Created this public repository** and cloned it locally
+6. **Wrote and committed this README.md**
 
 ---
 
@@ -39,6 +40,17 @@ made sense.
 The search results showed multiple similar extensions. I resolved 
 this by following the exact names provided in the instructions.
 
+**Challenge 3: Author identity unknown when running git commit**
+When running `git commit` for the first time, Git returned a fatal error
+stating it could not detect my identity. The terminal showed:
+`fatal: unable to auto-detect email address`
+
+I solved this by configuring my Git identity using the following commands:
+```bash
+git config --global user.email "anggilenovo7@gmail.com"
+git config --global user.name "Anggiawan"
+```
+After running both commands, the commit and push completed successfully.
 ---
 
 ## Screenshots
