@@ -65,7 +65,7 @@ In Cursor, open the Extensions panel using one of these methods:
 3. Click **"Install"**
 4. Once installed, click **"Sign in"** and log in with your Anthropic account
 
-![Claude Code Extension](screenshots/claude-extensions.png)
+![Claude Code Extension](screenshots/claude-extension.png)
 
 ---
 
@@ -75,7 +75,7 @@ In Cursor, open the Extensions panel using one of these methods:
 3. Click **"Install"**
 4. Once installed, click **"Sign in"** and complete the login process
 
-![Claude Code Extension](screenshots/codex-extensions.png)
+![Claude Code Extension](screenshots/codex-extension.png)
 
 ---
 

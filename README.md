@@ -30,11 +30,12 @@ configuration, and reflections on the experience.
 
 ## Challenges & How I Solved Them
 
-**Challenge 1: Unfamiliar with Git commands**
-I had not used Git before this task. I searched YouTube for 
-"how to push code to GitHub" and followed a beginner tutorial. 
-After that, the `git add`, `git commit`, and `git push` commands 
-made sense.
+**Challenge 1: Rusty knowledge of Git commands**
+I had used Git before, but due to a long gap in practice, I had forgotten
+most of the workflow. I refreshed my knowledge by searching through
+developer documentation websites and consulting an AI assistant to clarify
+each step. After that, the `git add`, `git commit`, and `git push` commands
+came back to me quickly.
 
 **Challenge 2: Finding the correct extensions in Cursor**
 The search results showed multiple similar extensions. I resolved 
@@ -44,6 +45,8 @@ this by following the exact names provided in the instructions.
 When running `git commit` for the first time, Git returned a fatal error
 stating it could not detect my identity. The terminal showed:
 `fatal: unable to auto-detect email address`
+
+![Cursor IDE](screenshots/author-identify-unknown.png)
 
 I solved this by configuring my Git identity using the following commands:
 ```bash
