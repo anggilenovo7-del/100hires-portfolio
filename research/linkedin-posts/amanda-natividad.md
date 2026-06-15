@@ -1,7 +1,9 @@
 # LinkedIn Posts — Amanda Natividad
 
 **Profile:** https://www.linkedin.com/in/amandanat
+
 **Topic Focus:** Content strategy, audience building, zero-click content
+
 **Collected:** June 2026
 
 ---

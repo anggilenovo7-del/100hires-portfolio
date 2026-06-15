@@ -1,7 +1,9 @@
 # LinkedIn Posts — Chris Walker
 
 **Profile:** https://www.linkedin.com/in/chriswalker171
+
 **Topic Focus:** Demand generation, dark social, B2B organic strategy
+
 **Collected:** June 2026
 
 ---

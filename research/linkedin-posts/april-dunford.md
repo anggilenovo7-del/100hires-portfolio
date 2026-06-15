@@ -1,7 +1,9 @@
 # LinkedIn Posts — April Dunford
 
 **Profile:** https://www.linkedin.com/in/aprildunford
+
 **Topic Focus:** Product positioning for SaaS companies
+
 **Collected:** June 2026
 
 ---

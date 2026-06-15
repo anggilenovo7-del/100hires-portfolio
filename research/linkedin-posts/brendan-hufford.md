@@ -1,7 +1,9 @@
 # LinkedIn Posts — Brendan Hufford
 
 **Profile:** https://www.linkedin.com/in/brendanhufford
+
 **Topic Focus:** Organic growth for SaaS, content-led demand generation
+
 **Collected:** June 2026
 
 ---
