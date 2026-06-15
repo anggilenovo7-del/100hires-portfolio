@@ -30,8 +30,6 @@ Key lessons:
 **URL:** [Original Post](https://www.linkedin.com/posts/amandanat_b2b-buyers-are-on-linkedin-is-true-its-activity-7460350666750955520-BCTa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGpi08BcD4FugyYukQKbiz0k7tPk0-E-Ko)
 
 ### **Why this post is relevant:**
-### Why this post is relevant
-
 This post highlights an important principle in B2B SaaS marketing: understanding where an audience spends time is not the same as understanding how they make decisions. Amanda argues that marketers should focus less on channels and more on how ideas spread within an audience.
 
 Using audience research data, she demonstrates that while RevOps leaders are active on LinkedIn, many of their decisions are influenced by internal conversations happening in workplace tools such as Slack. As a result, content should be designed not only to attract attention but also to be shared and discussed among decision-makers.
