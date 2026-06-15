@@ -1,7 +1,9 @@
 # LinkedIn Posts — Justin Welsh
 
 **Profile:** https://www.linkedin.com/in/justinwelsh
+
 **Topic Focus:** Solo creator growth, LinkedIn content systems, personal branding
+
 **Collected:** June 2026
 
 ---
