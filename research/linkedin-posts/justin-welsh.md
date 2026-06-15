@@ -10,7 +10,7 @@
 **Date:** June 6, 2026
 **URL:** https://www.linkedin.com/pulse/unreasonable-justin-welsh-cface
 
-### Unreasonable.
+**Unreasonable.**
 The Saturday Essay is a weekly email on living and working on your own terms. Real talk on money, freedom, and work that fits your life.
 
 Want to get The Saturday Essay in your inbox? [Join 200,000+ other readers here.](https://justinwelsh.me/?utm_source=linkedin&utm_medium=newsletter&utm_campaign=unreasonable)
@@ -63,7 +63,7 @@ Cheers,
 
 Justin Welsh
 
-**Why this post is relevant:**
+### **Why this post is relevant:**
 This post is a strong example of founder-led storytelling, a content format frequently used by successful B2B SaaS creators on LinkedIn. Instead of teaching tactics directly, Justin shares a personal career decision and uses it to communicate a broader lesson about risk, long-term thinking, and personal growth.
 
 The post demonstrates how personal experiences can be transformed into engaging business content that attracts attention, builds trust, and strengthens audience connection. This approach aligns with a common pattern among top LinkedIn creators: using authentic stories to establish authority rather than relying on promotional content.
@@ -76,7 +76,59 @@ Key lessons:
 ---
 
 ## Post 2
-...
+**Date:** June 6, 2026
+**URL:** https://www.linkedin.com/pulse/unreasonable-justin-welsh-cface
+
+Nobody walks away from a $550,000 salary without a really good reason.
+
+Mine was that I was dying inside.
+
+I spent 16 years in corporate, chasing milestones and building other people's businesses.
+
+And then, one day in 2019, I decided I'd had enough.
+
+Well... actually, my mind and body decided for me.
+
+It would take me the next 7 years to build something that finally gave me what I actually wanted.
+
+- A 7-figure income
+- Purpose in my work
+- Complete time freedom
+
+Here's what I learned:
+
+The money followed the meaning. 
+Not the other way around.
+
+When I stopped optimizing for revenue and started building something I absolutely loved, revenue became the natural byproduct.
+
+My income went up.
+My stress went down.
+My work finally felt like mine.
+
+I spent the last year analyzing 250+ essays I've written about entrepreneurship, hours of voice notes, and over 10 interviews with successful friends.
+
+I turned those into a 30-page field manual that walks through how I built a $15M business without destroying my life.
+
+There are zero hustle tactics and no "growth hacks."
+
+It's the 7 actual capacities that compounded over time to build the business.
+
+Free here: https://buff.ly/qyPzps4 
+
+### **Why this post is relevant:**
+
+This post demonstrates how successful LinkedIn creators combine personal storytelling with authority building. Rather than promoting a product directly, Justin shares his journey from a high-paying corporate career to building a business that provides both financial success and personal fulfillment.
+
+The post follows a common B2B SaaS content pattern: presenting a relatable problem, sharing a personal transformation, and introducing a resource that helps others achieve similar outcomes. This approach creates trust before making an offer, making the promotion feel natural rather than sales-driven.
+
+The post also highlights how emotional topics such as freedom, purpose, and work-life alignment can generate strong engagement while still supporting a business objective.
+
+Key lessons:
+- Personal transformation stories are effective for building credibility and trust.
+- Emotional themes often generate stronger engagement than purely tactical content.
+- Value-first storytelling can naturally lead to product or resource promotion.
+- Successful creators often sell outcomes (freedom, purpose, fulfillment) rather than features.
 
 ---
 
