@@ -206,7 +206,7 @@ As a result, brand becomes increasingly important.
 
 Long before buyers enter a sales process.
 
-**Why this video is relevant:**
+### **Why this video is relevant:**
 This conversation is one of the most practical B2B social media playbooks available today.
 
 Instead of treating social as a distribution channel, ClickUp treats it as:

@@ -94,7 +94,7 @@ Jason repeatedly emphasizes that buyers care less about software pricing and mor
 - Onboarding
 The best products minimize customer effort rather than maximizing sales interactions.
 
-**Why this video is relevant:**
+### **Why this video is relevant:**
 This video provides a valuable counterpoint to many modern SaaS growth strategies that prioritize retention metrics, expansion revenue, and aggressive monetization.
 
 Jason Lemkin highlights an often-overlooked reality:
