@@ -112,9 +112,9 @@ To conduct this research, I:
 
 ### What Was Collected
 
-* 10 expert profiles with annotations → `/research/sources.md`
-* 30 LinkedIn posts (3 per expert) → `/research/linkedin-posts/`
-* YouTube transcripts and video analysis from selected experts → `/research/youtube-transcripts/`
+* 10 expert profiles with annotations → [`/research/sources.md`](research/sources.md)
+* 30 LinkedIn posts (3 per expert) → [`/research/linkedin-posts/`](research/linkedin-posts)
+* YouTube transcripts and video analysis from selected experts → [`/research/youtube-transcripts/`](research/youtube-transcripts)
 
 ### Key Observations
 
