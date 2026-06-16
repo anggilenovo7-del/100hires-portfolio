@@ -13,12 +13,14 @@
 ### Transcript / Key Points
 1. Most B2B Companies Use Social Media Wrong
 The biggest mistake is treating social media like another advertising channel.
+
 Most companies post:
 - Product updates
 - Webinar promotions
 - Blog links
 - Corporate announcements
 But people don't open Instagram, TikTok, LinkedIn, or YouTube because they want ads.
+
 They open those platforms because they want to:
 - Laugh
 - Learn
