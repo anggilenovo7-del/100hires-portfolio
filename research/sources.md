@@ -10,7 +10,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Focus:** Solo creator growth, LinkedIn content systems, personal branding
 - **Why selected:** Built a $5M+ one-person business primarily through LinkedIn
   organic content. Shares repeatable frameworks, not just inspiration.
-- **Content type:** Text posts, carousels, weekly newsletter
 
 ---
 
@@ -20,7 +19,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** Founder of CXL and Wynter. Built the CXL brand almost
   entirely through personal LinkedIn content. Known for sharp, contrarian
   takes on B2B SaaS marketing that challenge conventional wisdom.
-- **Content type:** Text posts, carousels, podcast (How to Win)
 
 ---
 
@@ -30,7 +28,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** Author of "Obviously Awesome", the go-to book on SaaS
   positioning. Her LinkedIn posts translate complex strategy into
   actionable frameworks.
-- **Content type:** Thought leadership, frameworks, carousels
 
 ---
 
@@ -40,7 +37,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Focus:** SaaS growth, founder content, B2B go-to-market
 - **Why selected:** Founder of SaaStr, the largest SaaS community.
   Posts raw, experience-based insights on scaling B2B SaaS.
-- **Content type:** Text posts, video, podcast
 
 ---
 
@@ -50,7 +46,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** Co-founder of Moz and SparkToro. One of the most
   respected voices in B2B organic content. Shares data-driven insights
   on how buyers actually discover and evaluate SaaS products.
-- **Content type:** Text posts, newsletters, research reports
 
 ---
 
@@ -60,7 +55,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** CEO of Passetto, pioneer of the "dark social" concept
   in B2B marketing. Challenges conventional LinkedIn wisdom with
   data-backed arguments.
-- **Content type:** Video posts, text posts, podcast (Demand Gen Live)
 
 ---
 
@@ -71,7 +65,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
   *Product-Led Growth*, and host of the ProductLed Podcast. Has coached
   400+ SaaS companies and generated over $1B in self-serve revenue.
   Shares highly tactical LinkedIn content based on real client results.
-- **Content type:** Text posts, video, podcast (ProductLed Podcast)
 
 ---
 
@@ -81,7 +74,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** VP Marketing at SparkToro. Coined the concept of
   "zero-click content" — highly relevant for LinkedIn organic strategy
   where content must deliver value without requiring a link click.
-- **Content type:** Frameworks, carousels, short-form text
 
 ---
 
@@ -91,7 +83,6 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** Worked with 50+ SaaS companies on organic growth.
   Shares honest, tactical advice on what actually works vs. what sounds
   good in theory.
-- **Content type:** Text posts, newsletters, case studies
 
 ---
 
@@ -101,6 +92,5 @@ and teach LinkedIn organic content strategy for B2B SaaS.
 - **Why selected:** Founder of Exit Five, the leading B2B marketing
   community. Former CMO at Privy and Drift. Demonstrates how authentic
   personal content builds pipeline for B2B SaaS companies.
-- **Content type:** Text posts, podcast, community content
 
 ---
