@@ -6,7 +6,7 @@
 
 ---
 
-## B2B Marketing is Changing Because of AI
+## Why I'm Scared to Buy SaaS Today
 **URL:** [Youtube](https://www.youtube.com/watch?v=bIQpzhiJ1Cw)
 **Published:** March 5, 2025
 
