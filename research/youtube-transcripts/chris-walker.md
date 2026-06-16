@@ -6,8 +6,7 @@
 
 ---
 
-## Video 1
-**Title:** B2B Marketing is Changing Because of AI
+## B2B Marketing is Changing Because of AI
 **URL:** [Youtube](https://www.youtube.com/watch?v=XgpRKXoU8M4)
 **Published:** Jan 14, 2026
 
