@@ -19,16 +19,16 @@ Interview customers, identify their biggest challenges, and learn how they make 
 Sources: [Amanda Natividad](research/linkedin-posts/amanda-natividad.md), [Rand Fishkin](research/linkedin-posts/rand-fishkin.md), [Dave Gerhardt](research/linkedin-posts/dave-gerhardt.md)
 2. Define your positioning before writing your first post.
 Content amplifies positioning, it cannot fix weak positioning.
-Source: April Dunford
+Source: [April Dunford](research/linkedin-posts/april-dunford.md)
 3. Create valuable content consistently.
 Prioritize educational content, practical frameworks, and real experiences over promotional posts.
-Sources: Justin Welsh, Dave Gerhardt, Brendan Hufford
+Sources: [Justin Welsh](research/linkedin-posts/justin-welsh.md), [Dave Gerhardt](research/linkedin-posts/dave-gerhardt.md), [Brendan Hufford](research/linkedin-posts/brendan-hufford.md)
 4. Use AI to accelerate execution, not replace thinking.
 Use AI for research, outlining, and editing. Keep original judgment, experience, and opinions human.
-Sources: Brendan Hufford, Dave Gerhardt, Chris Walker
+Sources: [Brendan Hufford](research/linkedin-posts/brendan-hufford.md), [Dave Gerhardt](research/linkedin-posts/dave-gerhardt.md), [Chris Walker](research/linkedin-posts/chris-walker.md)
 5. Measure business outcomes, not vanity metrics.
 Success is measured by conversations, subscribers, qualified leads, and pipeline, not likes or impressions.
-Sources: Justin Welsh, Amanda Natividad
+Sources: [Justin Welsh](research/linkedin-posts/justin-welsh.md), [Amanda Natividad](research/linkedin-posts/amanda-natividad.md)
 
 ---
 
@@ -53,7 +53,7 @@ Before any tactic, these principles shape everything else in this playbook.
 
 ### Principle 1: LinkedIn is not an advertising channel
 
-The most common mistake in B2B social is treating it like a distribution channel for product announcements and promotions. According to Dave Gerhardt's YouTube interview (April 27, 2026), ClickUp's content team explicitly asks one question before publishing anything: does this make people feel something, teach something useful, or provide value? If it doesn't satisfy at least one of those goals, they don't post it.
+The most common mistake in B2B social is treating it like a distribution channel for product announcements and promotions. According to [Dave Gerhardt's YouTube interview](research/youtube-transcripts/dave-gerhardt.md), ClickUp's content team explicitly asks one question before publishing anything: does this make people feel something, teach something useful, or provide value? If it doesn't satisfy at least one of those goals, they don't post it.
 
 Product-centric content such as webinar promotions, blog links, and feature updates are why most B2B LinkedIn strategies fail. People open LinkedIn to learn, be entertained, or feel something. Not to be sold to.
 
@@ -63,7 +63,7 @@ Product-centric content such as webinar promotions, blog links, and feature upda
 
 ### Principle 2: Content cannot fix bad positioning
 
-Before thinking about what to post, you must know what you stand for. April Dunford's LinkedIn post (February 2026) makes the point directly: many companies rush into content and messaging before establishing strategic clarity. Who they are targeting, what they are positioning, and how customers evaluate alternatives. Without this foundation, content becomes inconsistent and forgettable.
+Before thinking about what to post, you must know what you stand for. [April Dunford's LinkedIn post](research/linkedin-posts/april-dunford.md/#post-3) makes the point directly: many companies rush into content and messaging before establishing strategic clarity. Who they are targeting, what they are positioning, and how customers evaluate alternatives. Without this foundation, content becomes inconsistent and forgettable.
 
 Strong positioning answers three questions:
 - Who specifically is this for?
@@ -76,7 +76,7 @@ Strong positioning answers three questions:
 
 ### Principle 3: Measuring success by outcomes, not vanity metrics
 
-Justin Welsh's LinkedIn post (June 13, 2026) describes a situation where his redesigned website received significant negative feedback, yet conversion results improved substantially because the design served a specific business goal. His lesson: define the business outcome you are optimizing for, then measure that, not audience reaction.
+[Justin Welsh's LinkedIn post](research/linkedin-posts/justin-welsh.md/#post-3) describes a situation where his redesigned website received significant negative feedback, yet conversion results improved substantially because the design served a specific business goal. His lesson: define the business outcome you are optimizing for, then measure that, not audience reaction.
 
 Likes and impressions are not business outcomes. Newsletter subscribers, inbound DMs, booked calls, and pipeline created are outcomes.
 
@@ -90,7 +90,7 @@ Likes and impressions are not business outcomes. Newsletter subscribers, inbound
 
 ### Step 1: Define your market point of view
 
-April Dunford argues (LinkedIn, June 11, 2026) that strong B2B brands don't just describe what their product does, they communicate a clear perspective on where the market is heading and why their approach is the right one for that future. She uses OpenAI, Anthropic, and Microsoft as examples of how different companies stake out distinct positions even within the same category.
+[April Dunford argues](research/linkedin-posts/april-dunford.md/#post-1) that strong B2B brands don't just describe what their product does, they communicate a clear perspective on where the market is heading and why their approach is the right one for that future. She uses OpenAI, Anthropic, and Microsoft as examples of how different companies stake out distinct positions even within the same category.
 
 Your market point of view should answer: *What do we believe about how this market is changing, and why does that belief shape what we build?*
 
@@ -100,7 +100,7 @@ Write one paragraph that captures this. It becomes the north star for all conten
 
 ### Step 2: Research how your buyers actually make decisions
 
-Amanda Natividad's LinkedIn post (May 2026) challenges a common assumption: knowing where your audience spends time is not the same as understanding how they make decisions. Her example: RevOps leaders are active on LinkedIn, but many of their buying decisions are shaped by conversations happening in Slack and private channels.
+[Amanda Natividad's LinkedIn post](research/linkedin-posts/amanda-natividad.md/#post-2) challenges a common assumption: knowing where your audience spends time is not the same as understanding how they make decisions. Her example: RevOps leaders are active on LinkedIn, but many of their buying decisions are shaped by conversations happening in Slack and private channels.
 
 Before creating content, answer:
 - Where do your buyers learn about new tools? (communities, podcasts, colleagues, LinkedIn?)
