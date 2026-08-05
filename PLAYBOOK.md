@@ -254,3 +254,36 @@ Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success
 
 ---
 
+## 6. Where Experts Disagree
+
+### Disagreement 1: Should content primarily educate or entertain?
+
+**Dave Gerhardt's position:** Every piece of content should make people feel something, teach something, or entertain. The ClickUp case study (YouTube, April 27, 2026) shows a brand building pipeline through humor, culture content, and entertainment-first formats, not just tactical marketing advice.
+
+**April Dunford's position:** Content should communicate a clear market point of view and strategic perspective (LinkedIn, June 11, 2026). Her content is almost entirely educational and positioning-focused (frameworks, strategic analysis, clear arguments). Very little entertainment.
+
+**My verdict: It depends on your audience and your goal.** For a B2B SaaS founder trying to build trust with technical buyers and operators, Dunford's approach is more appropriate. For a marketing team trying to build broad brand awareness and top-of-funnel reach, Gerhardt's entertainment-forward approach creates more scale. Early-stage companies are usually better served by Dunford's model, you need to establish credibility before you can afford to entertain.
+
+---
+
+### Disagreement 2: Should you post on personal or company pages?
+
+**Justin Welsh's position:** Build the founder's personal brand, not the company page (implicit across all his content). His entire $5M+ business is built around his personal LinkedIn presence. Company pages are largely irrelevant in his model.
+
+**Dave Gerhardt's position (via ClickUp example):** Company social can work at scale if the content strategy is entertainment-first and consistently high quality (YouTube, April 27, 2026). ClickUp built 200M+ monthly impressions through company channels.
+
+**My verdict: Personal pages first, always, for early-stage.** ClickUp's approach requires a production team, a content budget, and significant organizational infrastructure. For early-stage B2B SaaS, the founder's personal brand is the only realistic place to build credibility and generate genuine engagement. A company page with 200 followers will never outperform a founder with an authentic voice and 3,000 engaged followers.
+
+---
+
+### Disagreement 3: How much should AI be used in content creation?
+
+**Brendan Hufford's position:** AI can help organize, surface insights, and accelerate drafting. But "taste" (the ability to recognize what resonates) cannot be automated (LinkedIn, June 9, 2026). He explicitly argues that the 4D Framework (Decide, Duplicate, Decode, Defy) requires human judgment at every step.
+
+**Chris Walker's position:** AI is reshaping how teams operate and reducing the advantage of large companies (YouTube, January 2026). He is broadly optimistic about AI's role in go-to-market work and does not treat it as a threat to content quality.
+
+**My verdict: Hufford is more right for content specifically.** Walker's point applies more to operations and go-to-market processes than to content creation itself. For LinkedIn organic, where differentiation and authentic voice are the primary moat, over-relying on AI creates content that is competent but not memorable. Hufford's framework (use AI to do, then use judgment to stand out) is the more useful operating principle.
+
+These experts emphasize different aspects of AI rather than directly contradicting each other. However, their recommendations lead to different priorities when creating LinkedIn content.
+
+---
