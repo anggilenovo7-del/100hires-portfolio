@@ -18,7 +18,7 @@ If you only have five minutes, start here.
 Interview customers, identify their biggest challenges, and learn how they make buying decisions.
 Sources: Amanda Natividad, Rand Fishkin, Dave Gerhardt
 2. Define your positioning before writing your first post.
-Content amplifies positioning—it cannot fix weak positioning.
+Content amplifies positioning, it cannot fix weak positioning.
 Source: April Dunford
 3. Create valuable content consistently.
 Prioritize educational content, practical frameworks, and real experiences over promotional posts.
@@ -27,7 +27,7 @@ Sources: Justin Welsh, Dave Gerhardt, Brendan Hufford
 Use AI for research, outlining, and editing. Keep original judgment, experience, and opinions human.
 Sources: Brendan Hufford, Dave Gerhardt, Chris Walker
 5. Measure business outcomes, not vanity metrics.
-Success is measured by conversations, subscribers, qualified leads, and pipeline—not likes or impressions.
+Success is measured by conversations, subscribers, qualified leads, and pipeline, not likes or impressions.
 Sources: Justin Welsh, Amanda Natividad
 
 ---
@@ -81,5 +81,47 @@ Justin Welsh's LinkedIn post (June 13, 2026) describes a situation where his red
 Likes and impressions are not business outcomes. Newsletter subscribers, inbound DMs, booked calls, and pipeline created are outcomes.
 
 **The rule:** Before publishing, define what success looks like. Track that, not engagement.
+
+---
+
+## 2. Phase 1 — Foundation: Positioning Before Content
+
+**Time required:** 1–2 weeks before posting anything publicly.
+
+### Step 1: Define your market point of view
+
+April Dunford argues (LinkedIn, June 11, 2026) that strong B2B brands don't just describe what their product does, they communicate a clear perspective on where the market is heading and why their approach is the right one for that future. She uses OpenAI, Anthropic, and Microsoft as examples of how different companies stake out distinct positions even within the same category.
+
+Your market point of view should answer: *What do we believe about how this market is changing, and why does that belief shape what we build?*
+
+Write one paragraph that captures this. It becomes the north star for all content.
+
+---
+
+### Step 2: Research how your buyers actually make decisions
+
+Amanda Natividad's LinkedIn post (May 2026) challenges a common assumption: knowing where your audience spends time is not the same as understanding how they make decisions. Her example: RevOps leaders are active on LinkedIn, but many of their buying decisions are shaped by conversations happening in Slack and private channels.
+
+Before creating content, answer:
+- Where do your buyers learn about new tools? (communities, podcasts, colleagues, LinkedIn?)
+- What content do they forward internally?
+- What makes them bring something into a team discussion?
+
+Rand Fishkin reinforces this (LinkedIn, May 2026): popular narratives about audience behavior are often not supported by actual data. Do your own research rather than relying on conventional wisdom.
+
+**Practical method:** Interview 5–10 target customers or prospects. Ask what podcasts they listen to, what content they shared recently, and what problems they're actively trying to solve. Dave Gerhardt's YouTube video (April 27, 2026) describes how ClickUp's content team runs short customer interviews specifically to source content ideas, and these conversations become the raw material for their highest-performing posts.
+
+---
+
+### Step 3: Design content to be "forwardable"
+
+Amanda Natividad's post (May 2026) introduces the concept of "forwardable content", it means content that decision-makers want to bring into internal team discussions because it helps explain a problem, support a recommendation, or make a case for a decision.
+
+This is a critical insight for early-stage B2B SaaS: you are not just writing for the person who sees your post. You are writing for the conversation that happens *after* they close LinkedIn.
+
+A forwardable post:
+- Helps someone explain something to their team
+- Supports an argument someone is already trying to make
+- Names a problem that buyers haven't yet articulated clearly
 
 ---
