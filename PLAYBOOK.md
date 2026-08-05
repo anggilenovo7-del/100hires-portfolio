@@ -16,7 +16,7 @@ This playbook is designed for: early-stage B2B SaaS founders or marketers starti
 If you only have five minutes, start here.
 1. Understand your audience before creating content.
 Interview customers, identify their biggest challenges, and learn how they make buying decisions.
-Sources: Amanda Natividad, Rand Fishkin, Dave Gerhardt
+Sources: [Amanda Natividad](research/linkedin-posts/amanda-natividad.md), [Rand Fishkin](research/linkedin-posts/rand-fishkin.md), [Dave Gerhardt](research/linkedin-posts/dave-gerhardt.md)
 2. Define your positioning before writing your first post.
 Content amplifies positioning, it cannot fix weak positioning.
 Source: April Dunford
@@ -451,8 +451,6 @@ Measure pipeline, conversations, and subscribers instead of vanity metrics.
 Customer conversations should directly influence future content.
 ### 10. Think independently.
 Every recommendation in this playbook should be adapted to your market, product, and customers rather than copied blindly.
-
----
 
 **Final Principle**
 The strongest LinkedIn strategy is not the one that generates the most engagement.

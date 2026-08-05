@@ -10,6 +10,7 @@
 
 ## Post 1
 **Date:** June 9, 2026
+
 **URL:** [Original Post](https://www.linkedin.com/posts/jasonmlemkin_if-you-are-at-scale-you-now-have-2-full-time-share-7444844269237956608-wJxC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGpi08BcD4FugyYukQKbiz0k7tPk0-E-Ko)
 
 ### **Why this post is relevant:**
@@ -30,6 +31,7 @@ Key lessons:
 
 ## Post 2
 **Date:** June 12, 2026
+
 **URL:** [Original Post](https://www.linkedin.com/posts/jasonmlemkin_one-reason-its-very-hard-for-b2b-companies-share-7447299097574830081-VGuZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGpi08BcD4FugyYukQKbiz0k7tPk0-E-Ko)
 
 ### **Why this post is relevant:**
@@ -49,6 +51,7 @@ Key lessons:
 
 ## Post 3
 **Date:** June 13, 2026
+
 **URL:** [Original Post](https://www.linkedin.com/posts/jasonmlemkin_one-of-the-toughest-things-for-many-teams-share-7447815631153942528-Gc8v/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGpi08BcD4FugyYukQKbiz0k7tPk0-E-Ko)
 
 ### **Why this post is relevant:**
