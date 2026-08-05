@@ -314,3 +314,19 @@ Richard van der Blom, who publishes annual LinkedIn algorithm research, was list
 Several experts — Peep Laja especially (LinkedIn, June 1, 2026), make the point that AI amplifies existing strengths and weaknesses. A company without clear positioning, strong customer proof, and a differentiated product will not solve those problems with LinkedIn content. This playbook assumes a real product with real customers. Without that foundation, even excellent content strategy will underperform.
 
 ---
+
+## 10. Who I Would NOT Recommend Following and Why
+
+### Chris Walker — with an important caveat
+
+Chris Walker is included in this research as a genuinely influential voice on B2B demand generation and dark social. His YouTube video (January 2026) contains strong strategic thinking about how AI is reshaping go-to-market operations, and his LinkedIn posts demonstrate effective use of contrarian content.
+
+**However, I would not recommend him as a primary source for early-stage B2B SaaS LinkedIn content strategy for one specific reason:** his LinkedIn content frequently drifts into topics that are broad and engagement-optimized rather than specifically useful such as personal habits, workplace culture opinions, and general self-improvement content (LinkedIn, June 8 and June 13, 2026). These posts generate interaction but offer limited signal for founders trying to learn what content actually drives pipeline.
+
+More importantly: the strategic framework Walker advocates ("dark social", demand generation, CFO-led GTM alignment) is designed for companies that are already at scale. His advice assumes you have budget, team, data infrastructure, and an existing customer base to analyze. For a founder at zero to 50 customers, the playbook he teaches is not yet applicable.
+
+**My recommendation:** Read Walker for strategic perspective on where B2B marketing is heading. Do not model your early-stage LinkedIn content approach on his posts.
+
+---
+
+*This playbook was built from real research collected in June 2026. All citations link to original sources collected during the research phase. Last updated: June 2026.*
