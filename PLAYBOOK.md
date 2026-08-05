@@ -290,9 +290,107 @@ These experts emphasize different aspects of AI rather than directly contradicti
 
 ## 7. What I Rejected and Why
 
+### Rejected Idea 1: Posting personal development and lifestyle content to expand reach
+
+Chris Walker uses personal habits, workplace culture, and self-improvement topics frequently on LinkedIn (June 8 and June 13, 2026). His argument is that these topics attract a broad professional audience and build relatability beyond marketing circles.
+
+**Why I rejected this:** For early-stage B2B SaaS founders, this is a distraction. Posting about cold plunges or morning routines may generate likes, but it builds the wrong audience. If your goal is to generate pipeline for a specific product sold to a specific buyer, your content needs to attract that buyer — not a general professional audience. Broad relatability content is a strategy for people who have already established domain credibility. Starting with it means you'll attract followers who will never become customers.
+
+---
+
+### Rejected Idea 2: A/B testing content like paid ads from the beginning
+
+Dave Gerhardt's YouTube video (April 27, 2026) describes how ClickUp tests multiple hooks, headlines, and edits for every video before committing to a version, treating social content like a performance marketing experiment.
+
+**Why I rejected this:** This approach requires production infrastructure that early-stage teams don't have. Shooting multiple versions of every post, analyzing performance systematically, and iterating based on test results is a mature content operation strategy, it's what you do when you're producing 12–15 videos per week and have a dedicated team. For a founder posting 2–3 times per week, the better use of time is developing an authentic voice through volume and experimentation, not systematic A/B testing. That level of rigor comes later, when you know what works and want to optimize it.
+
 ---
 
 ## 8. My Original Ideas
+
+**The Founder-Led Content Flywheel**
+
+One pattern repeatedly appeared across the experts I researched, even though none of them explicitly described it as a complete system. Successful founder-led content is not created by brainstorming random post ideas—it is created through a continuous learning loop between founders, customers, and the market.
+
+I call this framework The Founder-Led Content Flywheel.
+
+### Step 1 — Talk to Customers
+
+Instead of brainstorming topics internally, founders should regularly speak with customers, prospects, and industry peers to understand their real problems, language, and decision-making process.
+
+The goal is not to sell.
+
+The goal is to learn.
+
+### Step 2 — Identify Recurring Problems
+
+Look for patterns instead of isolated questions.
+
+If multiple customers repeatedly struggle with the same issue, it is likely worth creating content around that problem.
+
+The audience decides the topics, not the marketing calendar.
+
+### Step 3 — Develop a Unique Point of View
+
+Do not simply explain the problem.
+
+Explain how you think about the problem differently.
+
+This is where positioning begins.
+
+Instead of repeating common advice, develop an opinion that reflects your own experience and expertise.
+
+### Step 4 — Create Educational & Story-Driven Content
+
+Transform customer insights into content that teaches, tells stories, or shares practical experiences.
+
+The objective is to build credibility before promoting products.
+
+### Step 5 — Start Conversations
+
+Publishing content is not the finish line.
+
+Comments, direct messages, customer calls, and sales conversations become another research opportunity.
+
+Audience interaction creates new market intelligence.
+
+### Step 6 — Learn What Resonates
+
+Rather than optimizing for likes alone, evaluate:
+
+- Which topics generated meaningful discussions?
+- Which ideas were repeatedly shared?
+- Which content influenced customer conversations?
+- Which insights appeared again during sales calls?
+
+These signals are more valuable than vanity metrics.
+
+### Step 7 — Refine Positioning & Messaging
+
+As new customer insights emerge, continuously improve positioning, messaging, and future content.
+
+The best content strategy becomes smarter over time because every post generates additional customer understanding.
+
+Then the cycle repeats.
+
+**Why I Believe This Works**
+
+None of the experts explicitly describe content creation as a continuous learning flywheel.
+
+However, many of them contribute one part of the system:
+
+| Flywheel Step | Supported by|
+|---------------|-------------|
+| Talk to customers	| Dave Gerhardt, Wes Bush |
+| Identify recurring problems | Amanda Natividad |
+| Develop a point of view | April Dunford, Chris Walker |
+| Story-driven content | Justin Welsh, Brendan Hufford |
+| Learn from audience response | Dave Gerhardt |
+| Refine positioning | April Dunford |
+
+My contribution is connecting these separate ideas into one repeatable operating model.
+
+Instead of treating LinkedIn as a publishing platform, founders can treat it as a continuous customer research system that simultaneously builds brand awareness, strengthens positioning, and improves future content.
 
 ---
 
