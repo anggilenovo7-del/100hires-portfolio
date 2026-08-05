@@ -196,3 +196,61 @@ Amanda Natividad raises an emerging and underrated point (LinkedIn, June 13, 202
 This is not a core part of most LinkedIn playbooks yet, but it's likely to become one.
 
 ---
+
+## 4. Phase 3 — Distribution and Audience Building
+
+### Step 8: Focus deeply on one channel before expanding
+
+Rand Fishkin's LinkedIn post (May 2026) uses Mark Powell Bespoke as a case study: the brand grew by investing deeply in a single platform (Instagram) and becoming genuinely recognized within a specific community. The lesson: strong audience-channel alignment consistently outperforms trying to be present everywhere.
+
+For early-stage B2B SaaS on LinkedIn:
+- Do not repurpose to Twitter/X, newsletter, and podcast simultaneously at the start
+- Build one LinkedIn voice until you have a clear content identity and a growing audience
+- Only expand to other channels once you know what content format and angle works
+
+Dave Gerhardt's team (YouTube, April 27, 2026) creates content primarily for Instagram and LinkedIn, then repurposes from those two. The repurposing comes *after* knowing what works, not before.
+
+---
+
+### Step 9: Design your launch strategy as a phased rollout, not a single event
+
+Amanda Natividad's LinkedIn post (June 8, 2026) argues that the concept of a "launch day" is a flawed mental model. Effective launches build momentum gradually, starting with the most engaged users, gathering social proof and real customer stories, then expanding distribution outward.
+
+Applied to LinkedIn content:
+- Start with posts aimed at existing customers, colleagues, and warm connections
+- Gather testimonials, reactions, and real examples before writing broader awareness content
+- Let early engagement create credibility that supports later distribution
+
+---
+
+### Step 10: Reduce all friction in your buyer's journey
+
+Jason Lemkin's YouTube video (March 2025) makes an argument that directly affects how content should connect to pipeline: every piece of friction added to the buying process (difficult trials, confusing pricing, forced demos, complex cancellation) also makes it harder to convert the awareness created by LinkedIn content.
+
+Content can create intent. But if the product experience doesn't support that intent, the content investment is wasted.
+
+**Checklist for content-to-pipeline alignment:**
+- [ ] Can a prospect try the product without speaking to sales first?
+- [ ] Is pricing visible or easily discoverable?
+- [ ] Is there a clear, low-friction next step in every post's CTA?
+- [ ] Does the product deliver value quickly enough to match what content promises?
+
+Wes Bush reinforces this (LinkedIn, June 1, 2026): in the AI era, time-to-value is becoming a critical competitive advantage. Content should promise what the product can actually deliver quickly.
+
+---
+
+## 5. Phase 4 — Measurement: What Actually Matters
+
+Track these four outcomes — not likes or impressions:
+
+| Metric | What It Measures | How to Track |
+|--------|-----------------|--------------|
+| Inbound DMs per month | Whether content is generating direct interest | Manual count |
+| Newsletter / waitlist growth | Whether content is converting to owned audience | Email platform |
+| Profile visits per week | Whether content is driving profile curiosity | LinkedIn analytics |
+| Booked calls attributed to LinkedIn | Whether content is creating pipeline | CRM or manual log |
+
+Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success by the outcome you defined upfront, not by audience reaction. Negative comments on a post that drives 10 newsletter signups is a win. Viral engagement that drives zero conversions is noise.
+
+---
+
