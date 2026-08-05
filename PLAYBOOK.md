@@ -329,4 +329,37 @@ More importantly: the strategic framework Walker advocates ("dark social", deman
 
 ---
 
+# Executive Summary
+This playbook synthesizes research from ten experienced B2B SaaS practitioners into one practical operating framework for LinkedIn organic growth.
+Rather than copying individual creators, the objective is to identify recurring principles that consistently appear across different experts and apply them in a structured workflow.
+## Ten Operating Rules
+### 1. Position before content.
+Content amplifies positioning—it does not create it.
+### 2. Know your audience deeply.
+Interview customers and understand how buying decisions are actually made.
+### 3. Build trust before selling.
+Educational and useful content consistently outperforms promotional content.
+### 4. Create forwardable content.
+Write posts that help buyers explain ideas internally.
+### 5. Publish consistently.
+Consistency compounds more than occasional viral posts.
+### 6. Build the founder's credibility.
+People trust people more than company pages.
+### 7. Use AI as an assistant.
+Let AI improve efficiency—not replace judgment or experience.
+### 8. Optimize for business outcomes.
+Measure pipeline, conversations, and subscribers instead of vanity metrics.
+### 9. Continuously learn from customers.
+Customer conversations should directly influence future content.
+### 10. Think independently.
+Every recommendation in this playbook should be adapted to your market, product, and customers rather than copied blindly.
+
+---
+
+**Final Principle**
+The strongest LinkedIn strategy is not the one that generates the most engagement.
+It is the one that consistently builds trust with the right audience and converts that trust into long-term business growth.
+
+---
+
 *This playbook was built from real research collected in June 2026. All citations link to original sources collected during the research phase. Last updated: June 2026.*
