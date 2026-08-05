@@ -125,3 +125,74 @@ A forwardable post:
 - Names a problem that buyers haven't yet articulated clearly
 
 ---
+
+## 3. Phase 2 — Content System: What to Post and How
+
+### Step 4: Build your content on three formats
+
+Based on analysis of the highest-performing posts across all 10 experts, three formats consistently drive engagement and credibility:
+
+**Format A — Personal story with a business lesson**
+Justin Welsh uses this in nearly every post (June 6 and June 8, 2026). The structure: share a real experience (including failures, pivots, or unexpected outcomes), extract a specific lesson, and connect it to something the audience is facing. The story earns attention; the lesson earns credibility.
+
+Structure:
+```
+Hook: Surprising or counterintuitive opening line
+Story: 3–5 short paragraphs, specific details, real numbers if possible
+Lesson: 1–3 clear takeaways the audience can apply
+Optional CTA: Newsletter, DM, or resource. Never the product directly
+```
+
+**Format B — Contrarian take backed by logic or data**
+Chris Walker (LinkedIn, June 10, 2026) and Peep Laja (LinkedIn, June 8, 2026) both use this format: take a widely accepted belief in your market and challenge it with specific business reasoning. The goal is not to be controversial for its own sake, but to reveal something practitioners already sense but rarely say out loud.
+
+Rand Fishkin adds an important guard here (LinkedIn, May 2026): contrarian claims should be supported by data, not just opinion. If you're going to challenge conventional wisdom, show your evidence.
+
+**Format C — Practical framework or process**
+Wes Bush, April Dunford, and Brendan Hufford all use this regularly. Explain a specific process, decision framework, or mental model in a way that is immediately useful. The test: can someone read this post and do something differently tomorrow?
+
+---
+
+### Step 5: Maintain a consistent posting rhythm
+
+Dave Gerhardt's YouTube video (April 27, 2026) describes ClickUp's production system as a weekly cycle: pitch ideas on Monday, refine scripts Tuesday, final review Wednesday, shoot on Thursday, analyze on Friday. This structured rhythm creates consistency without creative burnout.
+
+For early-stage founders or solo marketers, a simplified version:
+
+| Day | Activity |
+|-----|----------|
+| Monday | Write 2 draft posts for the week |
+| Tuesday | Edit and finalize both |
+| Wednesday | Publish post 1 |
+| Thursday | Engage with comments, note what resonates |
+| Friday | Publish post 2, note performance |
+
+**Minimum viable frequency:** 2–3 posts per week. Gerhardt's team found that one great post per day outperformed multiple average posts, and that audience fatigue is real. Prioritize quality over volume.
+
+---
+
+### Step 6: Use AI as a tool, not a replacement
+
+Both Brendan Hufford (LinkedIn, June 9 and June 8, 2026) and Dave Gerhardt (LinkedIn, June 2026) address this directly. The core argument across both sources: AI-generated content is becoming increasingly easy to identify, and audiences are developing a preference for authentic human insight over polished but generic output.
+
+Hufford's "4D Framework" offers a practical approach:
+1. **Decide** — make a clear judgment about what you believe
+2. **Duplicate** — study what's already working in your space
+3. **Decode** — understand *why* it works
+4. **Defy** — find where the conventions can be broken
+
+Use AI to organize, summarize, and draft. Use your own experience and judgment to add the insight that makes it worth reading.
+
+Gerhardt adds (LinkedIn, June 2026): the growing risk is not AI itself, but over-reliance on it. The skill of independent thinking, reflection, and forming original opinions is becoming more valuable as AI makes execution faster.
+
+---
+
+### Step 7: Monitor AI visibility as part of your content strategy
+
+Amanda Natividad raises an emerging and underrated point (LinkedIn, June 13, 2026): AI platforms (ChatGPT, Gemini, Perplexity) are becoming discovery channels where prospects form opinions about brands before visiting a website or speaking with sales. Misconceptions in AI-generated results may reflect broader market confusion about your positioning.
+
+**Practical action:** Once a month, search your company name, product category, and key problem you solve in at least two AI tools. Note what they say. If the description is inaccurate or vague, that's a signal that your content is not clearly communicating your positioning.
+
+This is not a core part of most LinkedIn playbooks yet, but it's likely to become one.
+
+---
