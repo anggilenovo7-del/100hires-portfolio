@@ -287,3 +287,30 @@ Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success
 These experts emphasize different aspects of AI rather than directly contradicting each other. However, their recommendations lead to different priorities when creating LinkedIn content.
 
 ---
+
+## 7. What I Rejected and Why
+
+---
+
+## 8. My Original Ideas
+
+---
+
+## 9. Weaknesses of This Playbook
+
+**1. Most of this research is observational, not causal.**
+I analyzed what successful practitioners post and what they say works. But correlation is not causation. Justin Welsh's posts succeed in part because he already has a large, loyal audience. Applying his formats as a complete beginner may produce different results. The playbook presents patterns, not guarantees.
+
+**2. The experts in this research are not all primarily LinkedIn organic practitioners.**
+April Dunford, Jason Lemkin, Rand Fishkin, and Wes Bush are subject matter experts who use LinkedIn, but their primary contributions are through books, communities, and podcasts. Their LinkedIn presence is strong, but their content is not always specifically optimized for LinkedIn organic growth. Some of their insights are about marketing strategy broadly, not LinkedIn tactics specifically.
+
+**3. The "forwardable content" and "buyer's conversation" ideas are untested.**
+These are logical frameworks drawn from combining insights, not documented results. I believe they are sound, but they have not been validated against actual engagement data.
+
+**4. This playbook does not address LinkedIn's algorithm directly.**
+Richard van der Blom, who publishes annual LinkedIn algorithm research, was listed as an expert in the original sources document but was ultimately not included in the final collected research. His data would significantly strengthen the distribution and timing recommendations in this playbook. That is a gap.
+
+**5. Early-stage companies have a credibility problem that content alone cannot solve.**
+Several experts — Peep Laja especially (LinkedIn, June 1, 2026), make the point that AI amplifies existing strengths and weaknesses. A company without clear positioning, strong customer proof, and a differentiated product will not solve those problems with LinkedIn content. This playbook assumes a real product with real customers. Without that foundation, even excellent content strategy will underperform.
+
+---
