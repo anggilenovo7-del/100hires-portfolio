@@ -115,7 +115,7 @@ Rand Fishkin reinforces this (LinkedIn, May 2026): popular narratives about audi
 
 ### Step 3: Design content to be "forwardable"
 
-Amanda Natividad's post (May 2026) introduces the concept of "forwardable content", it means content that decision-makers want to bring into internal team discussions because it helps explain a problem, support a recommendation, or make a case for a decision.
+[Amanda Natividad's post](research/linkedin-posts/amanda-natividad.md/#post-2) introduces the concept of "forwardable content", it means content that decision-makers want to bring into internal team discussions because it helps explain a problem, support a recommendation, or make a case for a decision.
 
 This is a critical insight for early-stage B2B SaaS: you are not just writing for the person who sees your post. You are writing for the conversation that happens *after* they close LinkedIn.
 
@@ -133,7 +133,7 @@ A forwardable post:
 Based on analysis of the highest-performing posts across all 10 experts, three formats consistently drive engagement and credibility:
 
 **Format A — Personal story with a business lesson**
-Justin Welsh uses this in nearly every post (June 6 and June 8, 2026). The structure: share a real experience (including failures, pivots, or unexpected outcomes), extract a specific lesson, and connect it to something the audience is facing. The story earns attention; the lesson earns credibility.
+[Justin Welsh uses this in nearly every post](research/linkedin-posts/justin-welsh.md/#post-1). The structure: share a real experience (including failures, pivots, or unexpected outcomes), extract a specific lesson, and connect it to something the audience is facing. The story earns attention; the lesson earns credibility.
 
 Structure:
 ```
@@ -144,9 +144,9 @@ Optional CTA: Newsletter, DM, or resource. Never the product directly
 ```
 
 **Format B — Contrarian take backed by logic or data**
-Chris Walker (LinkedIn, June 10, 2026) and Peep Laja (LinkedIn, June 8, 2026) both use this format: take a widely accepted belief in your market and challenge it with specific business reasoning. The goal is not to be controversial for its own sake, but to reveal something practitioners already sense but rarely say out loud.
+[Chris Walker](research/linkedin-posts/chris-walker.md/#post-2) and [Peep Laja](research/linkedin-posts/peep-laja.md#post-1) both use this format: take a widely accepted belief in your market and challenge it with specific business reasoning. The goal is not to be controversial for its own sake, but to reveal something practitioners already sense but rarely say out loud.
 
-Rand Fishkin adds an important guard here (LinkedIn, May 2026): contrarian claims should be supported by data, not just opinion. If you're going to challenge conventional wisdom, show your evidence.
+Rand Fishkin adds an important guard [here](research/linkedin-posts/rand-fishkin.md/#post-2): contrarian claims should be supported by data, not just opinion. If you're going to challenge conventional wisdom, show your evidence.
 
 **Format C — Practical framework or process**
 Wes Bush, April Dunford, and Brendan Hufford all use this regularly. Explain a specific process, decision framework, or mental model in a way that is immediately useful. The test: can someone read this post and do something differently tomorrow?
@@ -155,7 +155,7 @@ Wes Bush, April Dunford, and Brendan Hufford all use this regularly. Explain a s
 
 ### Step 5: Maintain a consistent posting rhythm
 
-Dave Gerhardt's YouTube video (April 27, 2026) describes ClickUp's production system as a weekly cycle: pitch ideas on Monday, refine scripts Tuesday, final review Wednesday, shoot on Thursday, analyze on Friday. This structured rhythm creates consistency without creative burnout.
+[Dave Gerhardt's YouTube video](research/youtube-transcripts/dave-gerhardt.md) describes ClickUp's production system as a weekly cycle: pitch ideas on Monday, refine scripts Tuesday, final review Wednesday, shoot on Thursday, analyze on Friday. This structured rhythm creates consistency without creative burnout.
 
 For early-stage founders or solo marketers, a simplified version:
 
@@ -173,7 +173,7 @@ For early-stage founders or solo marketers, a simplified version:
 
 ### Step 6: Use AI as a tool, not a replacement
 
-Both Brendan Hufford (LinkedIn, June 9 and June 8, 2026) and Dave Gerhardt (LinkedIn, June 2026) address this directly. The core argument across both sources: AI-generated content is becoming increasingly easy to identify, and audiences are developing a preference for authentic human insight over polished but generic output.
+[Both Brendan Hufford](research/linkedin-posts/brendan-hufford.md/#post-2) and [Dave Gerhardt](research/linkedin-posts/dave-gerhardt.md/#post-3) address this directly. The core argument across both sources: AI-generated content is becoming increasingly easy to identify, and audiences are developing a preference for authentic human insight over polished but generic output.
 
 Hufford's "4D Framework" offers a practical approach:
 1. **Decide** — make a clear judgment about what you believe
@@ -183,13 +183,13 @@ Hufford's "4D Framework" offers a practical approach:
 
 Use AI to organize, summarize, and draft. Use your own experience and judgment to add the insight that makes it worth reading.
 
-Gerhardt adds (LinkedIn, June 2026): the growing risk is not AI itself, but over-reliance on it. The skill of independent thinking, reflection, and forming original opinions is becoming more valuable as AI makes execution faster.
+[Gerhardt adds](research/linkedin-posts/dave-gerhardt.md/#post-3): the growing risk is not AI itself, but over-reliance on it. The skill of independent thinking, reflection, and forming original opinions is becoming more valuable as AI makes execution faster.
 
 ---
 
 ### Step 7: Monitor AI visibility as part of your content strategy
 
-Amanda Natividad raises an emerging and underrated point (LinkedIn, June 13, 2026): AI platforms (ChatGPT, Gemini, Perplexity) are becoming discovery channels where prospects form opinions about brands before visiting a website or speaking with sales. Misconceptions in AI-generated results may reflect broader market confusion about your positioning.
+[Amanda Natividad raises an emerging and underrated point](research/linkedin-posts/amanda-natividad.md/#post-3): AI platforms (ChatGPT, Gemini, Perplexity) are becoming discovery channels where prospects form opinions about brands before visiting a website or speaking with sales. Misconceptions in AI-generated results may reflect broader market confusion about your positioning.
 
 **Practical action:** Once a month, search your company name, product category, and key problem you solve in at least two AI tools. Note what they say. If the description is inaccurate or vague, that's a signal that your content is not clearly communicating your positioning.
 
@@ -201,20 +201,20 @@ This is not a core part of most LinkedIn playbooks yet, but it's likely to becom
 
 ### Step 8: Focus deeply on one channel before expanding
 
-Rand Fishkin's LinkedIn post (May 2026) uses Mark Powell Bespoke as a case study: the brand grew by investing deeply in a single platform (Instagram) and becoming genuinely recognized within a specific community. The lesson: strong audience-channel alignment consistently outperforms trying to be present everywhere.
+[Rand Fishkin's LinkedIn post](research/linkedin-posts/rand-fishkin.md/#post-3) uses Mark Powell Bespoke as a case study: the brand grew by investing deeply in a single platform (Instagram) and becoming genuinely recognized within a specific community. The lesson: strong audience-channel alignment consistently outperforms trying to be present everywhere.
 
 For early-stage B2B SaaS on LinkedIn:
 - Do not repurpose to Twitter/X, newsletter, and podcast simultaneously at the start
 - Build one LinkedIn voice until you have a clear content identity and a growing audience
 - Only expand to other channels once you know what content format and angle works
 
-Dave Gerhardt's team (YouTube, April 27, 2026) creates content primarily for Instagram and LinkedIn, then repurposes from those two. The repurposing comes *after* knowing what works, not before.
+[Dave Gerhardt's team](research/youtube-transcripts/dave-gerhardt.md) creates content primarily for Instagram and LinkedIn, then repurposes from those two. The repurposing comes *after* knowing what works, not before.
 
 ---
 
 ### Step 9: Design your launch strategy as a phased rollout, not a single event
 
-Amanda Natividad's LinkedIn post (June 8, 2026) argues that the concept of a "launch day" is a flawed mental model. Effective launches build momentum gradually, starting with the most engaged users, gathering social proof and real customer stories, then expanding distribution outward.
+[Amanda Natividad's LinkedIn post](research/linkedin-posts/amanda-natividad.md/#post-1) argues that the concept of a "launch day" is a flawed mental model. Effective launches build momentum gradually, starting with the most engaged users, gathering social proof and real customer stories, then expanding distribution outward.
 
 Applied to LinkedIn content:
 - Start with posts aimed at existing customers, colleagues, and warm connections
@@ -225,7 +225,7 @@ Applied to LinkedIn content:
 
 ### Step 10: Reduce all friction in your buyer's journey
 
-Jason Lemkin's YouTube video (March 2025) makes an argument that directly affects how content should connect to pipeline: every piece of friction added to the buying process (difficult trials, confusing pricing, forced demos, complex cancellation) also makes it harder to convert the awareness created by LinkedIn content.
+[Jason Lemkin's YouTube video](research/youtube-transcripts/jason-lemkin.md) makes an argument that directly affects how content should connect to pipeline: every piece of friction added to the buying process (difficult trials, confusing pricing, forced demos, complex cancellation) also makes it harder to convert the awareness created by LinkedIn content.
 
 Content can create intent. But if the product experience doesn't support that intent, the content investment is wasted.
 
@@ -235,7 +235,7 @@ Content can create intent. But if the product experience doesn't support that in
 - [ ] Is there a clear, low-friction next step in every post's CTA?
 - [ ] Does the product deliver value quickly enough to match what content promises?
 
-Wes Bush reinforces this (LinkedIn, June 1, 2026): in the AI era, time-to-value is becoming a critical competitive advantage. Content should promise what the product can actually deliver quickly.
+[Wes Bush reinforces this](research/linkedin-posts/wes-bush.md/#post-3): in the AI era, time-to-value is becoming a critical competitive advantage. Content should promise what the product can actually deliver quickly.
 
 ---
 
@@ -250,7 +250,7 @@ Track these four outcomes — not likes or impressions:
 | Profile visits per week | Whether content is driving profile curiosity | LinkedIn analytics |
 | Booked calls attributed to LinkedIn | Whether content is creating pipeline | CRM or manual log |
 
-Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success by the outcome you defined upfront, not by audience reaction. Negative comments on a post that drives 10 newsletter signups is a win. Viral engagement that drives zero conversions is noise.
+[Justin Welsh's principle applies here](research/linkedin-posts/justin-welsh.md/#post-3): measure success by the outcome you defined upfront, not by audience reaction. Negative comments on a post that drives 10 newsletter signups is a win. Viral engagement that drives zero conversions is noise.
 
 ---
 
@@ -258,9 +258,9 @@ Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success
 
 ### Disagreement 1: Should content primarily educate or entertain?
 
-**Dave Gerhardt's position:** Every piece of content should make people feel something, teach something, or entertain. The ClickUp case study (YouTube, April 27, 2026) shows a brand building pipeline through humor, culture content, and entertainment-first formats, not just tactical marketing advice.
+**Dave Gerhardt's position:** Every piece of content should make people feel something, teach something, or entertain. [The ClickUp case study](research/youtube-transcripts/dave-gerhardt.md) shows a brand building pipeline through humor, culture content, and entertainment-first formats, not just tactical marketing advice.
 
-**April Dunford's position:** Content should communicate a clear market point of view and strategic perspective (LinkedIn, June 11, 2026). Her content is almost entirely educational and positioning-focused (frameworks, strategic analysis, clear arguments). Very little entertainment.
+**April Dunford's position:** Content should communicate a clear market point of view and strategic perspective. [Her content](research/linkedin-posts/april-dunford.md/#post-1) is almost entirely educational and positioning-focused (frameworks, strategic analysis, clear arguments). Very little entertainment.
 
 **My verdict: It depends on your audience and your goal.** For a B2B SaaS founder trying to build trust with technical buyers and operators, Dunford's approach is more appropriate. For a marketing team trying to build broad brand awareness and top-of-funnel reach, Gerhardt's entertainment-forward approach creates more scale. Early-stage companies are usually better served by Dunford's model, you need to establish credibility before you can afford to entertain.
 
@@ -270,7 +270,7 @@ Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success
 
 **Justin Welsh's position:** Build the founder's personal brand, not the company page (implicit across all his content). His entire $5M+ business is built around his personal LinkedIn presence. Company pages are largely irrelevant in his model.
 
-**Dave Gerhardt's position (via ClickUp example):** Company social can work at scale if the content strategy is entertainment-first and consistently high quality (YouTube, April 27, 2026). ClickUp built 200M+ monthly impressions through company channels.
+**Dave Gerhardt's position (via ClickUp example):** Company social can work at scale if the content strategy is entertainment-first and consistently high quality. ClickUp built 200M+ monthly impressions through company channels.
 
 **My verdict: Personal pages first, always, for early-stage.** ClickUp's approach requires a production team, a content budget, and significant organizational infrastructure. For early-stage B2B SaaS, the founder's personal brand is the only realistic place to build credibility and generate genuine engagement. A company page with 200 followers will never outperform a founder with an authentic voice and 3,000 engaged followers.
 
@@ -278,9 +278,9 @@ Justin Welsh's principle applies here (LinkedIn, June 13, 2026): measure success
 
 ### Disagreement 3: How much should AI be used in content creation?
 
-**Brendan Hufford's position:** AI can help organize, surface insights, and accelerate drafting. But "taste" (the ability to recognize what resonates) cannot be automated (LinkedIn, June 9, 2026). He explicitly argues that the 4D Framework (Decide, Duplicate, Decode, Defy) requires human judgment at every step.
+**Brendan Hufford's position:** AI can help organize, surface insights, and accelerate drafting. But "taste" (the ability to recognize what resonates) cannot be automated. He explicitly argues that the [4D Framework](research/linkedin-posts/brendan-hufford.md/#post-2) (Decide, Duplicate, Decode, Defy) requires human judgment at every step.
 
-**Chris Walker's position:** AI is reshaping how teams operate and reducing the advantage of large companies (YouTube, January 2026). He is broadly optimistic about AI's role in go-to-market work and does not treat it as a threat to content quality.
+**Chris Walker's position:** [AI is reshaping how teams operate and reducing the advantage of large companies](research/youtube-transcripts/chris-walker.md). He is broadly optimistic about AI's role in go-to-market work and does not treat it as a threat to content quality.
 
 **My verdict: Hufford is more right for content specifically.** Walker's point applies more to operations and go-to-market processes than to content creation itself. For LinkedIn organic, where differentiation and authentic voice are the primary moat, over-relying on AI creates content that is competent but not memorable. Hufford's framework (use AI to do, then use judgment to stand out) is the more useful operating principle.
 
@@ -292,7 +292,7 @@ These experts emphasize different aspects of AI rather than directly contradicti
 
 ### Rejected Idea 1: Posting personal development and lifestyle content to expand reach
 
-Chris Walker uses personal habits, workplace culture, and self-improvement topics frequently on LinkedIn (June 8 and June 13, 2026). His argument is that these topics attract a broad professional audience and build relatability beyond marketing circles.
+Chris Walker uses personal habits, workplace culture, and self-improvement topics frequently on [LinkedIn](research/linkedin-posts/chris-walker.md/#post-1). His argument is that these topics attract a broad professional audience and build relatability beyond marketing circles.
 
 **Why I rejected this:** For early-stage B2B SaaS founders, this is a distraction. Posting about cold plunges or morning routines may generate likes, but it builds the wrong audience. If your goal is to generate pipeline for a specific product sold to a specific buyer, your content needs to attract that buyer — not a general professional audience. Broad relatability content is a strategy for people who have already established domain credibility. Starting with it means you'll attract followers who will never become customers.
 
@@ -300,7 +300,7 @@ Chris Walker uses personal habits, workplace culture, and self-improvement topic
 
 ### Rejected Idea 2: A/B testing content like paid ads from the beginning
 
-Dave Gerhardt's YouTube video (April 27, 2026) describes how ClickUp tests multiple hooks, headlines, and edits for every video before committing to a version, treating social content like a performance marketing experiment.
+[Dave Gerhardt's YouTube video](research/youtube-transcripts/dave-gerhardt.md) describes how ClickUp tests multiple hooks, headlines, and edits for every video before committing to a version, treating social content like a performance marketing experiment.
 
 **Why I rejected this:** This approach requires production infrastructure that early-stage teams don't have. Shooting multiple versions of every post, analyzing performance systematically, and iterating based on test results is a mature content operation strategy, it's what you do when you're producing 12–15 videos per week and have a dedicated team. For a founder posting 2–3 times per week, the better use of time is developing an authentic voice through volume and experimentation, not systematic A/B testing. That level of rigor comes later, when you know what works and want to optimize it.
 
@@ -409,7 +409,7 @@ These are logical frameworks drawn from combining insights, not documented resul
 Richard van der Blom, who publishes annual LinkedIn algorithm research, was listed as an expert in the original sources document but was ultimately not included in the final collected research. His data would significantly strengthen the distribution and timing recommendations in this playbook. That is a gap.
 
 **5. Early-stage companies have a credibility problem that content alone cannot solve.**
-Several experts — Peep Laja especially (LinkedIn, June 1, 2026), make the point that AI amplifies existing strengths and weaknesses. A company without clear positioning, strong customer proof, and a differentiated product will not solve those problems with LinkedIn content. This playbook assumes a real product with real customers. Without that foundation, even excellent content strategy will underperform.
+Several experts, [Peep Laja especially](research/linkedin-posts/peep-laja.md/#post-3), make the point that AI amplifies existing strengths and weaknesses. A company without clear positioning, strong customer proof, and a differentiated product will not solve those problems with LinkedIn content. This playbook assumes a real product with real customers. Without that foundation, even excellent content strategy will underperform.
 
 ---
 
@@ -417,9 +417,9 @@ Several experts — Peep Laja especially (LinkedIn, June 1, 2026), make the poin
 
 ### Chris Walker — with an important caveat
 
-Chris Walker is included in this research as a genuinely influential voice on B2B demand generation and dark social. His YouTube video (January 2026) contains strong strategic thinking about how AI is reshaping go-to-market operations, and his LinkedIn posts demonstrate effective use of contrarian content.
+Chris Walker is included in this research as a genuinely influential voice on B2B demand generation and dark social. [His YouTube video](research/youtube-transcripts/chris-walker.md) contains strong strategic thinking about how AI is reshaping go-to-market operations, and his LinkedIn posts demonstrate effective use of contrarian content.
 
-**However, I would not recommend him as a primary source for early-stage B2B SaaS LinkedIn content strategy for one specific reason:** his LinkedIn content frequently drifts into topics that are broad and engagement-optimized rather than specifically useful such as personal habits, workplace culture opinions, and general self-improvement content (LinkedIn, June 8 and June 13, 2026). These posts generate interaction but offer limited signal for founders trying to learn what content actually drives pipeline.
+**However, I would not recommend him as a primary source for early-stage B2B SaaS LinkedIn content strategy for one specific reason:** his LinkedIn content frequently drifts into topics that are broad and engagement-optimized rather than specifically useful such as personal habits, workplace culture opinions, and [general self-improvement content](research/linkedin-posts/chris-walker.md/#post-1). These posts generate interaction but offer limited signal for founders trying to learn what content actually drives pipeline.
 
 More importantly: the strategic framework Walker advocates ("dark social", demand generation, CFO-led GTM alignment) is designed for companies that are already at scale. His advice assumes you have budget, team, data infrastructure, and an existing customer base to analyze. For a founder at zero to 50 customers, the playbook he teaches is not yet applicable.
 
