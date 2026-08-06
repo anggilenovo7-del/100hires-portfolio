@@ -272,7 +272,7 @@ Track these four outcomes, not likes or impressions:
 
 **Dave Gerhardt's position (via ClickUp example):** Company social can work at scale if the content strategy is entertainment-first and consistently high quality. ClickUp built 200M+ monthly impressions through company channels.
 
-**My verdict: Personal pages first, always, for early-stage.** ClickUp's approach requires a production team, a content budget, and significant organizational infrastructure. For early-stage B2B SaaS, the founder's personal brand is the only realistic place to build credibility and generate genuine engagement. A company page with 200 followers will never outperform a founder with an authentic voice and 3,000 engaged followers.
+**My verdict: Personal pages first, in most early-stage cases.** ClickUp's approach requires a production team, a content budget, and significant organizational infrastructure. For early-stage B2B SaaS, the founder's personal brand is the only realistic place to build credibility and generate genuine engagement. A company page with 200 followers is unlikely to outperform a founder with an authentic voice and 3,000 engaged followers.
 
 ---
 
@@ -282,7 +282,7 @@ Track these four outcomes, not likes or impressions:
 
 **Chris Walker's position:** [AI is reshaping how teams operate and reducing the advantage of large companies](research/youtube-transcripts/chris-walker.md). He is broadly optimistic about AI's role in go-to-market work and does not treat it as a threat to content quality.
 
-**My verdict: Hufford is more right for content specifically.** Walker's point applies more to operations and go-to-market processes than to content creation itself. For LinkedIn organic, where differentiation and authentic voice are the primary moat, over-relying on AI creates content that is competent but not memorable. Hufford's framework (use AI to do, then use judgment to stand out) is the more useful operating principle.
+**My verdict: Hufford's recommendation is more applicable for content specifically.** Walker's point applies more to operations and go-to-market processes than to content creation itself. For LinkedIn organic, where differentiation and authentic voice are the primary moat, over-relying on AI creates content that is competent but not memorable. Hufford's framework (use AI to do, then use judgment to stand out) is the more useful operating principle.
 
 These experts emphasize different aspects of AI rather than directly contradicting each other. However, their recommendations lead to different priorities when creating LinkedIn content.
 
@@ -402,7 +402,7 @@ I analyzed what successful practitioners post and what they say works. But corre
 **2. The experts in this research are not all primarily LinkedIn organic practitioners.**
 April Dunford, Jason Lemkin, Rand Fishkin, and Wes Bush are subject matter experts who use LinkedIn, but their primary contributions are through books, communities, and podcasts. Their LinkedIn presence is strong, but their content is not always specifically optimized for LinkedIn organic growth. Some of their insights are about marketing strategy broadly, not LinkedIn tactics specifically.
 
-**3. The "forwardable content" and "buyer's conversation" ideas are untested.**
+**3. The idea of ​​"forwardable content" is untested.**
 These are logical frameworks drawn from combining insights, not documented results. I believe they are sound, but they have not been validated against actual engagement data.
 
 **4. This playbook does not address LinkedIn's algorithm directly.**
@@ -426,31 +426,6 @@ More importantly: the strategic framework Walker advocates ("dark social", deman
 **My recommendation:** Read Walker for strategic perspective on where B2B marketing is heading. Do not model your early-stage LinkedIn content approach on his posts.
 
 ---
-
-# Executive Summary
-This playbook synthesizes research from ten experienced B2B SaaS practitioners into one practical operating framework for LinkedIn organic growth.
-Rather than copying individual creators, the objective is to identify recurring principles that consistently appear across different experts and apply them in a structured workflow.
-## Ten Operating Rules
-### 1. Position before content.
-Content amplifies positioning, it does not create it.
-### 2. Know your audience deeply.
-Interview customers and understand how buying decisions are actually made.
-### 3. Build trust before selling.
-Educational and useful content consistently outperforms promotional content.
-### 4. Create forwardable content.
-Write posts that help buyers explain ideas internally.
-### 5. Publish consistently.
-Consistency compounds more than occasional viral posts.
-### 6. Build the founder's credibility.
-People trust people more than company pages.
-### 7. Use AI as an assistant.
-Let AI improve efficiency, not replace judgment or experience.
-### 8. Optimize for business outcomes.
-Measure pipeline, conversations, and subscribers instead of vanity metrics.
-### 9. Continuously learn from customers.
-Customer conversations should directly influence future content.
-### 10. Think independently.
-Every recommendation in this playbook should be adapted to your market, product, and customers rather than copied blindly.
 
 **Final Principle**
 The strongest LinkedIn strategy is not the one that generates the most engagement.
