@@ -241,7 +241,7 @@ Content can create intent. But if the product experience doesn't support that in
 
 ## 5. Phase 4 — Measurement: What Actually Matters
 
-Track these four outcomes — not likes or impressions:
+Track these four outcomes, not likes or impressions:
 
 | Metric | What It Measures | How to Track |
 |--------|-----------------|--------------|
@@ -294,7 +294,7 @@ These experts emphasize different aspects of AI rather than directly contradicti
 
 Chris Walker uses personal habits, workplace culture, and self-improvement topics frequently on [LinkedIn](research/linkedin-posts/chris-walker.md/#post-1). His argument is that these topics attract a broad professional audience and build relatability beyond marketing circles.
 
-**Why I rejected this:** For early-stage B2B SaaS founders, this is a distraction. Posting about cold plunges or morning routines may generate likes, but it builds the wrong audience. If your goal is to generate pipeline for a specific product sold to a specific buyer, your content needs to attract that buyer — not a general professional audience. Broad relatability content is a strategy for people who have already established domain credibility. Starting with it means you'll attract followers who will never become customers.
+**Why I rejected this:** For early-stage B2B SaaS founders, this is a distraction. Posting about cold plunges or morning routines may generate likes, but it builds the wrong audience. If your goal is to generate pipeline for a specific product sold to a specific buyer, your content needs to attract that buyer, not a general professional audience. Broad relatability content is a strategy for people who have already established domain credibility. Starting with it means you'll attract followers who will never become customers.
 
 ---
 
