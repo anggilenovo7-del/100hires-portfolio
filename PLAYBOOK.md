@@ -310,7 +310,7 @@ Chris Walker uses personal habits, workplace culture, and self-improvement topic
 
 **The Founder-Led Content Flywheel**
 
-One pattern repeatedly appeared across the experts I researched, even though none of them explicitly described it as a complete system. Successful founder-led content is not created by brainstorming random post ideas—it is created through a continuous learning loop between founders, customers, and the market.
+One pattern repeatedly appeared across the experts I researched, even though none of them explicitly described it as a complete system. Successful founder-led content is not created by brainstorming random post ideas, it is created through a continuous learning loop between founders, customers, and the market.
 
 I call this framework The Founder-Led Content Flywheel.
 
@@ -432,7 +432,7 @@ This playbook synthesizes research from ten experienced B2B SaaS practitioners i
 Rather than copying individual creators, the objective is to identify recurring principles that consistently appear across different experts and apply them in a structured workflow.
 ## Ten Operating Rules
 ### 1. Position before content.
-Content amplifies positioning—it does not create it.
+Content amplifies positioning, it does not create it.
 ### 2. Know your audience deeply.
 Interview customers and understand how buying decisions are actually made.
 ### 3. Build trust before selling.
@@ -444,7 +444,7 @@ Consistency compounds more than occasional viral posts.
 ### 6. Build the founder's credibility.
 People trust people more than company pages.
 ### 7. Use AI as an assistant.
-Let AI improve efficiency—not replace judgment or experience.
+Let AI improve efficiency, not replace judgment or experience.
 ### 8. Optimize for business outcomes.
 Measure pipeline, conversations, and subscribers instead of vanity metrics.
 ### 9. Continuously learn from customers.
